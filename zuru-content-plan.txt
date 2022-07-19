@@ -4,6 +4,7 @@ ZURU CONTENT PLAN
   * ES6
   * Framework Javascript
     - Vue
+    - React
 - Fundamental data structure
 - PHP Framework
   - Laravel
