@@ -1,0 +1,8 @@
+ZURU CONTENT PLAN
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP Framework
+- Interview
+- Vlogs
