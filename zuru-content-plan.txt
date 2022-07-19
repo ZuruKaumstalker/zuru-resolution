@@ -3,6 +3,7 @@ ZURU CONTENT PLAN
 - Javascript
   * ES6
   * Framework Javascript
+- Fundamental data structure
 - PHP Framework
 - Interview
 - Vlogs
